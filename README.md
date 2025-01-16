@@ -7,7 +7,7 @@ contributing, maintaining and just generally learning what I can.
 [e18e](https://e18e.dev)
 
 **Maintainer:**
-[chai](https://github.com/chaijs/chai) - [parse5](https://github.com/inikulin/parse5) - [es-tooling](https://github.com/es-tooling) - [tinylibs](https://github.com/tinylibs)
+[chai](https://github.com/chaijs/chai) - [parse5](https://github.com/inikulin/parse5) - [es-tooling](https://github.com/es-tooling) - [tinylibs](https://github.com/tinylibs) - [chokidar](https://github.com/paulmillr/chokidar)
 
 **Regular Contributor:**
 [unjs](https://github.com/unjs) - [vueuse](https://github.com/vueuse/vueuse) - [storybook](https://github.com/storybookjs/storybook) - [lit](https://github.com/lit/lit)
