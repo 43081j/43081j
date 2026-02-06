@@ -10,7 +10,7 @@ contributing, maintaining and just generally learning what I can.
 [chai](https://github.com/chaijs/chai) - [parse5](https://github.com/inikulin/parse5) - [es-tooling](https://github.com/es-tooling) -
 [tinylibs](https://github.com/tinylibs) - [chokidar](https://github.com/paulmillr/chokidar) -
 [unjs](https://github.com/unjs) - [vueuse](https://github.com/vueuse/vueuse) -
-[bombshell](https://github.com/bombshell-dev)
+[bombshell](https://github.com/bombshell-dev) - [npmx](https://github.com/npmx-dev/npmx)
 
 **Regular Contributor:**
 [storybook](https://github.com/storybookjs/storybook) - [lit](https://github.com/lit/lit)
